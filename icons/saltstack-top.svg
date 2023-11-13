@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2500"
+   height="2275"
+   viewBox="0 0 256 233"
+   preserveAspectRatio="xMinYMin meet"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="saltstack-top.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20">
+    <rect
+       x="393.1028"
+       y="889.99373"
+       width="1075.2631"
+       height="765.12011"
+       id="rect327" />
+    <rect
+       x="159.8473"
+       y="1581.7678"
+       width="279.64754"
+       height="202.78083"
+       id="rect309" />
+    <rect
+       x="334.35427"
+       y="1481.1387"
+       width="690.45941"
+       height="640.62787"
+       id="rect303" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.24305824"
+     inkscape:cx="-22.628321"
+     inkscape:cy="1242.5005"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <path
+     d="M 138.927,70.876 V 30.908 l 58.363,29.522 0.004,57.783 -23.212,-11.2 V 88.853 L 138.928,70.876"
+     fill="#4396b9"
+     id="path2"
+     style="display:inline" />
+  <path
+     d="m 216.112,108.806 15.124,7.733 -57.012,28.51 -0.143,-38.036 23.212,11.2 18.82,-9.407"
+     fill="#b8dde8"
+     id="path4"
+     style="display:inline" />
+  <path
+     d="m 138.927,46.887 -23.792,11.82 23.792,12.17 v -23.99"
+     fill="#75bed5"
+     id="path6"
+     style="display:inline" />
+  <path
+     d="M 116.284,174.323 115.797,116.749 57.903,87.932 0,59.338 v 58.41 l 0.019,0.01 0.559,56.57 55.987,27.995 1.68,0.839 0.117,0.056 57.932,28.895 v -57.785 l -0.01,-0.005"
+     fill="#4396b9"
+     id="path8"
+     style="display:inline" />
+  <path
+     d="m 231.236,116.54 -57.155,28.583 v -56.27 l -58.284,27.896 0.497,58.787 v 56.577 l 57.787,-28.895 v -0.317 l 57.155,-28.573 v -57.789"
+     fill="#75bed5"
+     id="path10"
+     style="display:inline" />
+  <path
+     d="m 255.083,89.323 -57.79,28.89 V 60.43 l 57.79,-28.897 v 57.79"
+     fill="#75bed5"
+     id="path12"
+     style="display:inline" />
+  <path
+     d="M 138.927,30.908 197.29,60.43 255.084,31.533 196.139,1.383 156.316,21.934 113.454,0.01 55.344,30.265 0,59.338 l 57.903,28.594 57.894,28.817 58.284,-27.895 -58.946,-30.146 -0.76,0.392 -0.147,-0.074 0.907,-0.318 23.792,-11.82 v -15.98"
+     fill="#b8dde8"
+     id="path14"
+     style="display:inline" />
+  <text
+     xml:space="preserve"
+     transform="matrix(0.50469243,0.25911377,-0.01226872,0.63142498,-162.70497,-599.71081)"
+     id="text325"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect327);display:inline;fill:#000000;fill-opacity:1"><tspan
+       x="393.10352"
+       y="1064.6902"
+       id="tspan1279">T</tspan></text>
+</svg>

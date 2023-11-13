@@ -270,7 +270,8 @@
 		"_f_cypress": { "iconPath": "./icons/cypress.svg" },
 		"_f_objectivec": { "iconPath": "./icons/objectivec.svg" },
 		"_f_objectivecpp": { "iconPath": "./icons/objectivecpp.svg" },
-		"_f_saltstack": { "iconPath": "./icons/saltstack.svg" }
+		"_f_saltstack": { "iconPath": "./icons/saltstack.svg" },
+		"_f_saltstack-top": { "iconPath": "./icons/saltstack-top.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -1159,7 +1160,8 @@
 		"cypress.config.ts": "_f_cypress",
 		"cypress.config.jsx": "_f_cypress",
 		"cypress.env.json": "_f_cypress",
-		"go.mod": "_f_go"
+		"go.mod": "_f_go",
+		"top.sls": "_f_saltstack-top"
 	},
 	"languageIds": {
 		"apache": "_f_apache",
