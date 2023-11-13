@@ -267,7 +267,8 @@
 		"_f_cython": { "iconPath": "./icons/cython.svg" },
 		"_f_cypress": { "iconPath": "./icons/cypress.svg" },
 		"_f_objectivec": { "iconPath": "./icons/objectivec.svg" },
-		"_f_objectivecpp": { "iconPath": "./icons/objectivecpp.svg" }
+		"_f_objectivecpp": { "iconPath": "./icons/objectivecpp.svg" },
+		"_f_saltstack": { "iconPath": "./icons/saltstack.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -1259,6 +1260,7 @@
 		"cython": "_f_cython",
 		"cypress": "_f_cypress",
 		"objective-c": "_f_objectivec",
-		"objective-cpp": "_f_objectivecpp"
+		"objective-cpp": "_f_objectivecpp",
+		"sls": "_f_saltstack"
 	}
 }
